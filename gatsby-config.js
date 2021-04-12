@@ -3,19 +3,21 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'William Walsh',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Please let me work with you!`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `web-development, amazon web services, computer troubleshooting, networking`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/willwalsh96`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/william-walsh-00ba11113/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `My interest in computers and technology has been lifelong.
+    I gained access to highspeed internet at the tender age of 9, and since then I've been learning incessantly.
+    Now that I'm 25 I recognize how important programming skills can be..... `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
